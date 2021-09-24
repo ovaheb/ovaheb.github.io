@@ -922,15 +922,13 @@ pre code {
 
 
 .row {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display:         flex;
-  flex-wrap: wrap;
+  display: table;
 }
-.row > [class*='col-'] {
-  display: flex;
-  flex-direction: column;
+
+[class*="col-"] {
+  float: none;
+  display: table-cell;
+  vertical-align: top;
 }
 
 
