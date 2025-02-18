@@ -1,0 +1,1 @@
+This repository hosts the source code for my personal website, built with GitHub Pages. I’ve recently integrated a new, responsive template while preserving all of my previous content. Inside, you'll find the HTML, CSS, JavaScript, and configuration files that bring the site to life.
