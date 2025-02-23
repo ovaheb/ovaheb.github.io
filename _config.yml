@@ -144,11 +144,6 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
@@ -192,6 +187,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _news
+  - _includes/news.liquid
 keep_files:
   - CNAME
   - .nojekyll
