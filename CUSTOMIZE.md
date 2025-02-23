@@ -169,35 +169,6 @@ excludes:
 
 Here is a list of the main components that you may want to delete, and how to do it. Don't forget if you delete a page to update the `nav_order` of the remaining pages.
 
-### Removing the blog page
-
-To remove the blog, you have to:
-
-- delete [\_posts](_posts/) directory
-- delete blog page [\_pages/blog.md](_pages/blog.md)
-- remove reference to blog page in our [\_pages/dropdown.md](_pages/dropdown.md)
-- remove the `latest_posts` part in [\_pages/about.md](_pages/about.md)
-- remove the `Blog` section in the [\_config.yml](_config.yml) file and the related parts, like the `jekyll-archives`
-
-You can also:
-
-- delete [\_includes/latest_posts.liquid](_includes/latest_posts.liquid)
-- delete [\_includes/related_posts.liquid](_includes/related_posts.liquid)
-- delete [\_layouts/archive-category.liquid](_layouts/archive-category.liquid)
-- delete [\_layouts/archive-tag.liquid](_layouts/archive-tag.liquid)
-- delete [\_layouts/archive-year.liquid](_layouts/archive-year.liquid)
-- delete [\_plugins/external-posts.rb](_plugins/external-posts.rb)
-- remove the `jekyll-archives` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml)
-- remove the `classifier-reborn` gem from the [Gemfile](Gemfile)
-
-### Removing the news section
-
-To remove the news section, you can:
-
-- delete the [\_news](_news/) directory
-- delete the file [\_includes/news.liquid](_includes/news.liquid) and the references to it in the [\_pages/about.md](_pages/about.md)
-- remove the `announcements` part in [\_pages/about.md](_pages/about.md)
-- remove the news part in the `Collections` section in the [\_config.yml](_config.yml) file
 
 ### Removing the projects page
 
