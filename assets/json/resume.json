@@ -1,36 +1,80 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Omid Vaheb",
+    "label": "ML Engineer / Applied Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "ovaheb@gmail.com",
+    "summary": "Detail-oriented Applied Scientist specializing in scalable ML models for cross-functional engineering solutions.",
+    "location": {},
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "REDspace",
+      "position": "Machine Learning Engineer",
+      "url": "https://www.redspace.com/",
+      "startDate": "2025-01-02",
+      "endDate": "",
+      "summary": "Improving ASR pipeline accuracy by reducing Word Error Rate and hallucination errors, leveraging contextual data within Mockingbird AI dubbing product.",
+      "highlights": [
+        "Applied OpenAI Whisper model and developed a multimodal error correction solution."
+      ]
+    },
+    {
+      "name": "Vector Institute",
+      "position": "Machine Learning Associate",
+      "url": "http://vectorinstitute.ai/",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Collaborated with Vector staff to deliver deep learning solutions addressing AI needs of SMEs.",
+      "highlights": [
+        "Mastered RAG and LLM fine-tuning & alignment."
+      ]
+    },
+    {
+      "name": "University of Toronto",
+      "position": "Research Assistant",
+      "url": "https://www.comm.utoronto.ca/~sdraper/index.html",
+      "startDate": "2022-09-01",
+      "endDate": "2024-12-01",
+      "summary": "Developed an unsupervised training framework for astronomical image denoising.",
+      "highlights": [
+        "Achieved 15dB PSNR improvement and reduced observation costs by 66%.",
+        "Decreased memory usage by 80%, reducing execution time up to 60%."
+      ]
+    },
+    {
+      "name": "National Research Council Canada",
+      "position": "Applied Scientist",
+      "url": "https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre",
+      "startDate": "2023-06-01",
+      "endDate": "2023-09-01",
+      "summary": "Lowered MAE in astronomical image reconstruction by 15% using Restormer transformer and UNets.",
+      "highlights": [
+        "Created large-scale synthetic data using real galaxy simulations."
+      ]
+    },
+    {
+      "name": "Computational Audio-Vision Lab",
+      "position": "Research Assistant",
+      "url": "https://visionlab.ut.ac.ir/home",
+      "startDate": "2021-04-01",
+      "endDate": "2022-08-01",
+      "summary": "Developed deep learning models for Autism detection in infants using crying audio.",
+      "highlights": [
+        "Achieved 92% accuracy using deep networks and ensemble techniques."
+      ]
+    },
+    {
+      "name": "Virasad Startup",
+      "position": "Data Scientist",
+      "url": "https://virasad.ir/",
+      "startDate": "2020-05-01",
+      "endDate": "2021-04-01",
+      "summary": "Developed real-time anomaly detection and forecasting models for production lines.",
+      "highlights": [
+        "Used LSTM and ARIMA for time series forecasting."
+      ]
     }
   ],
   "volunteer": [
@@ -47,15 +91,26 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Toronto",
+      "location": "Toronto, Canada",
+      "url": "",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Master of Applied Science",
+      "startDate": "2022-09-01",
+      "endDate": "2024-11-01",
+      "score": "3.86/4",
+      "courses": []
+    },
+    {
+      "institution": "University of Tehran",
+      "location": "Tehran, Iran",
+      "url": "",
+      "area": "Electrical Engineering, Minor in Computer Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2017-09-01",
+      "endDate": "2022-02-01",
+      "score": "3.92/4",
+      "courses": []
     }
   ],
   "awards": [
@@ -111,90 +166,55 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "level": "Advanced",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python", "C/C++", "Linux Shell Scripting", "MATLAB", "SQL", "R", "Verilog", "OOP"
+      ]
+    },
+    {
+      "name": "AI Libraries & Frameworks",
+      "level": "Advanced",
+      "keywords": [
+        "PyTorch", "TensorFlow", "Keras", "NLTK", "OpenCV", "AutoML", "Fastai", "JAX"
+      ]
+    },
+    {
+      "name": "Development Tools & Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Git", "Slurm", "Docker", "MySQL", "AWS", "GCP", "Vertex AI", "BigQuery", "Dataflow", "Looker", "PubSub", "Wandb", "HDF5", "Cloud Computing", "DBMS", "AI Solution Architecture"
       ]
     }
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
+    
     {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "Persian",
+      "fluency": "Native speaker",
+      "icon": ""
     }
   ],
-  "projects": [
+  "interests": [],
+  "references": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Prof. Stark Draper",
+      "icon": "fa-solid fa-laptop",
+      "reference": "My mazing supervisor during my master's studies. Professor @ ECE at UofT"
+    },
+    {
+      "name": "Shayaan Mehdi",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "The most supportive manager I ever had! AI Project Management @ the Vector Institute"
     }
-  ]
+  ],
+  "projects": []
 }
