@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ovaheb
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ovaheb/AstroSURE_Learning-to-Denoise-Astronomical-Images
+  - ovaheb/ASR-Error-Correction
+  - ovaheb/Image-Denoising-Astrostatistics
+  - ovaheb/Autism-Classification
+  - ovaheb/Next-day-wildfire-prediction
+  - ovaheb/ovaheb.github.io
