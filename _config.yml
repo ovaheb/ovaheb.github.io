@@ -95,10 +95,6 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:title/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -152,6 +148,10 @@ exclude:
   - _plugins/google-scholar-citations.rb
   - _plugins/hide-custom-bibtex.rb
   - _plugins/inspirehep-citations.rb
+  - _projects
+  - _pages/projects.md
+  - _includes/projects_horizontal.liquid
+  - _includes/projects.liquid
 
 keep_files:
   - CNAME

@@ -22,3 +22,4 @@ Hi there! I'm an Applied Scientist who loves solving tricky real-world problems.
 Right now, I'm working at REDspace, making Automatic Speech Recognition (ASR) more accurate and reliable. I also collaborate with the amazing folks at the Vector Institute. My adventures include working on cutting-edge astronomical imaging at the University of Toronto and National Research Council Canada. Back at the University of Tehran, I explored the intersection of AI and healthcare, developing deep learning models for biomedical applications such as detecting Autism from infants' crying audio and utilizing EEG signals to aid in detection of epilepsy and Parkinson's. Basically, if it involves AI, data, and making things better—I'm all in!
 
 When I'm not buried in code, you'll probably find me geeking out over 3D printing 🖨️, attempting a series marathon 📺, getting overly invested in soccer ⚽, or playing old strategy games 🏰!
+
