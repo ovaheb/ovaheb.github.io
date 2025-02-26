@@ -1343,3 +1343,82 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+
+
+.skills-container-wrapper {
+  background: var(--global-bg-color); /* Matches theme */
+  border-radius: 15px; /* Rounded corners */
+  padding: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 40px;
+}
+
+.skills-header {
+  text-align: left;
+  font-size: 2rem;
+  color: var(--global-theme-color);
+  margin-bottom: 20px;
+}
+
+.skills-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 20px;
+}
+
+.skill-category {
+  text-align: center;
+  background: var(--global-bg-color);
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: none;
+  border: none;
+}
+
+.skill-category.full-width {
+  grid-column: span 2; /* Makes this category take full width */
+}
+
+.skill-category i {
+  font-size: 3rem;
+  color: var(--global-theme-color);
+  margin-bottom: 10px;
+}
+
+.skill-category h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.skill-category ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  padding-top: 10px;
+}
+
+.skill-category ul li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1rem;
+}
+
+
+.skill-category ul li img {
+  display: flex;
+  width: 35px; /* Adjust as needed */
+  height: 35px; /* Adjust as needed */
+  object-fit: contain; /* Ensures images keep their aspect ratio */
+  flex-direction: column;
+  align-items: center;
+  font-size: 1rem;
+}
+.skill-category ul li i {
+  font-size: 2rem;
+  color: #333;
+}
