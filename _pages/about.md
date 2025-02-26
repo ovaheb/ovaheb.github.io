@@ -40,10 +40,10 @@ When I'm not buried in code, you'll probably find me geeking out over 3D printin
       </ul>
     </div>
 
-    <!-- AI Libraries & Frameworks -->
+    <!-- AI Frameworks -->
     <div class="skill-category">
       <i class="fas fa-robot"></i>
-      <h3>AI Libraries & Frameworks</h3>
+      <h3>AI Frameworks</h3>
       <ul>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /> PyTorch</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />TensorFlow</li>
