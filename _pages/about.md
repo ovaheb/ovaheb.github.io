@@ -28,27 +28,22 @@ When I'm not buried in code, you'll probably find me geeking out over 3D printin
     
     <!-- Programming -->
     <div class="skill-category">
-      <i class="fas fa-code"></i>
       <h3>Programming</h3>
       <ul>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> Python</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />C</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />C++</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />C/C++</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />Linux Shell</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />MATLAB</li>
         <li><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />SQL</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />MATLAB</li>
       </ul>
     </div>
 
     <!-- AI Frameworks -->
     <div class="skill-category">
-      <i class="fas fa-robot"></i>
       <h3>AI Frameworks</h3>
       <ul>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /> PyTorch</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />TensorFlow</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
-           Keras</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />OpenCV</li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" /> JAX</li>
       </ul>
@@ -56,7 +51,6 @@ When I'm not buried in code, you'll probably find me geeking out over 3D printin
 
     <!-- Development Tools & Skills -->
     <div class="skill-category full-width">
-      <i class="fas fa-tools"></i>
       <h3>Development Tools</h3>
       <ul>
         <li>
@@ -79,9 +73,6 @@ When I'm not buried in code, you'll probably find me geeking out over 3D printin
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Vertex_AI_Logo.svg" /> Vertex AI</li>
         <li>
   <img src="/assets/logos/langchain.svg" alt="Custom Logo"> LangChain</li>
-        <li><img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" > BigQuery</li>
-        <li><img src="https://www.svgrepo.com/show/375547/automl-vision.svg" /> AutoML</li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HDF_logo_%282017%29.svg/768px-HDF_logo_%282017%29.svg.png" />HDF5</li>
       </ul>
     </div>
 
