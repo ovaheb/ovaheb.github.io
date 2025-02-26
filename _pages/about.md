@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: ML Engineer @ <a href=https://www.redspace.com/>REDspace</a>, <a href=https://vectorinstitute.ai/>Vector</a> <br> Previously&#58 MASc Alumni @ UofT, Applied scientist @ NRC
+subtitle: <strong>ML Engineer @ <a href=https://www.redspace.com/>REDspace</a>, <a href=https://vectorinstitute.ai/>Vector</a> <br> Previously&#58 MASc Alumni @ UofT, Applied scientist @ NRC</strong>
    
 profile:
   align: right
@@ -38,14 +38,15 @@ When I'm not buried in code, you'll probably find me geeking out over 3D printin
       </ul>
     </div>
 
-    <!-- AI Frameworks -->
+    <!-- AI Libraries -->
     <div class="skill-category">
-      <h3>AI Frameworks</h3>
+      <h3>AI Libraries</h3>
       <ul>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /> PyTorch</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />TensorFlow</li>
         <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />OpenCV</li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" /> JAX</li>
+        <li><img src="/assets/logos/langchain.svg" alt="Custom Logo"> LangChain</li>
       </ul>
     </div>
 
@@ -53,26 +54,19 @@ When I'm not buried in code, you'll probably find me geeking out over 3D printin
     <div class="skill-category full-width">
       <h3>Development Tools</h3>
       <ul>
-        <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
            Git</li>
-        <li><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" /> Slurm</li>
-        <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
            Docker</li>
-        <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+        <li><img src="/assets/logos/hugging.svg" alt="Custom Logo"> HuggingFace</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
            MySQL</li>
-        <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-           AWS</li>
-        <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-           GCP</li>
-        <li><img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" > Wandb</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> AWS</li>
+        <li><img src="/assets/logos/sagemaker.svg" alt="Custom Logo"> SageMaker</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />GCP</li>
         <li><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Vertex_AI_Logo.svg" /> Vertex AI</li>
-        <li>
-  <img src="/assets/logos/langchain.svg" alt="Custom Logo"> LangChain</li>
+        <li><img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" > Wandb</li>
+        <li><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" /> Slurm</li>
       </ul>
     </div>
 
