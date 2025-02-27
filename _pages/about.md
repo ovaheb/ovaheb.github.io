@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there👋 I'm Omid!
+Hi there, thanks for stopping by 👋
 
 I am an engineer with a passion for solving real-world problems—especially the ones that seem impossible at first. My journey started in Electrical and Computer Engineering, but I quickly got hooked on AI and never looked back. I love tackling tough problems, whether it's making systems more efficient, enhancing images, or figuring out new agents released everyday!
 
