@@ -14,11 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there, I'm Omid👋
+Hi there👋 I'm Omid!
 
-I'm an engineer with a passion for solving real-world problems—especially the ones that seem impossible at first. My journey started in Electrical and Computer Engineering, but I quickly got hooked on AI and never looked back. I love tackling tough problems, whether it's making systems more efficient, enhancing images, or figuring out new agents released everyday!
+I am an engineer with a passion for solving real-world problems—especially the ones that seem impossible at first. My journey started in Electrical and Computer Engineering, but I quickly got hooked on AI and never looked back. I love tackling tough problems, whether it's making systems more efficient, enhancing images, or figuring out new agents released everyday!
 
-Right now, I'm at <strong>REDspace</strong>, working on improving <strong>Automatic Speech Recognition (ASR)</strong> with a <strong>multi-modal approach</strong> and <strong>LLM oversight</strong>. I also collaborate with the amazing folks at the Vector Institute. Over the past two years, I've been diving into <strong>astronomical imaging</strong> at the <strong>University of Toronto</strong> and <strong>National Research Council Canada</strong>, finding ways to enhance raw telescope data using <strong>image processing</strong> techniques. Before that, at the University of Tehran, I explored <strong>AI in healthcare</strong>, developing deep learning models for <strong>detecting Autism from infants' crying audio</strong> and using EEG signals to aid in epilepsy and Parkinson's detection. Basically, if it involves AI, data, and making things better—count me in! 
+Currently, I'm at <strong>REDspace</strong>, working on improving <strong>Automatic Speech Recognition (ASR)</strong> with a <strong>Multi-modal</strong> approach and <strong>LLM</strong> oversight. I also collaborate with the amazing folks at the <strong>Vector Institute</strong>. Over the past two years, I've been diving into <strong>Astronomical Imaging</strong> at the <strong>University of Toronto</strong> and <strong>National Research Council Canada</strong>, finding ways to improve raw telescope data using <strong>Image enhancement</strong> techniques. Before that, at the University of Tehran, I explored <strong>AI in healthcare</strong>, developing deep learning models for <strong>Detecting Autism from infants' crying audio</strong> and using EEG signals to aid in epilepsy and Parkinson's detection. Basically, if it involves AI, data, and making things better—count me in! 
 
 When I'm not buried in code, you'll probably find me geeking out over 3D printing 🖨️, attempting a series marathon 📺, getting overly invested in soccer ⚽, or playing old strategy games 🏰!
 
