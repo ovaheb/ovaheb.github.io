@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>ML Engineer @ <a href=https://www.redspace.com/>REDspace</a>, <a href=https://vectorinstitute.ai/>Vector</a> <br> Previously&#58 MASc Alumni @ UofT, Applied scientist @ NRC</strong>
+subtitle: <strong>ML Engineer @ <a href=https://www.redspace.com/>REDspace</a>, <a href=https://vectorinstitute.ai/>Vector</a> <br> Previously&#58 MASc Alumni @ UofT, Applied Scientist @ NRC</strong>
    
 profile:
   align: right
