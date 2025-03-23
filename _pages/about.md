@@ -6,7 +6,7 @@ subtitle: <strong>ML Engineer @ <a href=https://www.redspace.com/>REDspace</a>, 
    
 profile:
   align: right
-  image: prof_pic.jpg
+  image: omid_vaheb.jpg
   image_circular: false # crops the image to make it circular
 
 
