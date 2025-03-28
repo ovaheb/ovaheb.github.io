@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>ML Engineer @ <a href=https://www.redspace.com/>REDspace</a>, <a href=https://vectorinstitute.ai/>Vector</a> <br> Previously&#58 MASc Alumni @ UofT, Applied Scientist @ NRC</strong>
+subtitle: <strong>ML Engineer @ <a href=https://www.redspace.com/>REDspace</a>, <a href=https://vectorinstitute.ai/>Vector</a> <br> Previously&#58 MASc Alumni @ <a href=https://www.utoronto.ca/>UofT</a>, Applied Scientist @ <a href=https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre>NRC</a></strong>
    
 profile:
   align: right
