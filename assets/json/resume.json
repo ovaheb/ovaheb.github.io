@@ -14,8 +14,8 @@
       "startDate": "2025-01-01",
       "endDate": "",
       "highlights": [
-        "Reduced Automatic Speech Recognition (ASR) word error rate & hallucination up to 70%, leveraging contextual data and GPT-4o for generative error correction (EC) in Mockingbird product.",
-        "Deployed multimodal EC solution on top of OpenAI Whisper, achieving SOTA performance as a PoC."
+        "Boosted Automatic Speech Recognition accuracy by cutting Hallucinations and Word Error Rate by 50%, reducing operational costs, and confirming improvements via A/B testing.",
+        "Deployed generative error correction module into Mockingbird Dubbing Solution. Engineered a multimodal PoC using OpenAI and open-source models, achieving SOTA accuracy."
       ]
     },
     {
@@ -24,8 +24,18 @@
       "startDate": "2024-09-01",
       "endDate": "",
       "highlights": [
-        "Developed and deployed deep learning solutions for SMEs, collaborating with cross-functional teams to integrate AI into real-world applications while ensuring scalability and efficiency.",
-        "Gained hands-on expertise in RAG, LLM fine-tuning & alignment for enterprise AI optimization."
+        "Developed multi-agent systems for startups & medium enterprises, and collaborated with cross-functional teams to integrate effective AI solutions.",
+        "Designed chatbots utilizing RAG and post-training techniques, such as LLM fine-tuning."
+      ]
+    },
+    {
+      "position": "Applied Scientist Intern @ National Research Council Canada",
+      "url": "https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre",
+      "startDate": "2023-06-01",
+      "endDate": "2024-09-01",
+      "highlights": [
+        "Reduced MAE by 15% in astronomical image reconstruction by optimizing Restormer Transformer and U-Net architecture. Implemented in PyTorch and deployed on a distributed multi-GPU cluster.",
+        "Generated large-scale synthetic data from real galaxy morphologies, reducing CPU synthesis time by 20%. Developed preprocessing pipelines for raw telescope data."
       ]
     },
     {
@@ -40,22 +50,12 @@
       ]
     },
     {
-      "position": "Applied Scientist @ National Research Council Canada",
-      "url": "https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre",
-      "startDate": "2023-06-01",
-      "endDate": "2023-09-01",
-      "highlights": [
-        "Reduced MAE by 15% in astronomical image reconstruction by optimizing Restormer Transformer and U-Net architecture. Implemented in PyTorch and deployed on a multi-GPU cluster.",
-        "Generated large-scale synthetic data from real galaxy morphologies, reducing CPU synthesis time by 20%. Developed preprocessing pipelines for raw telescope data."
-      ]
-    },
-    {
       "position": "Research Assistant @ Computational Audio-Vision Lab",
       "url": "https://visionlab.ut.ac.ir/home",
       "startDate": "2021-04-01",
       "endDate": "2022-08-01",
       "highlights": [
-        "Achieved SOTA 92% accuracy in autism detection from infants’ crying voice by fine-tuning Google YAMNet and using an ensemble classifier in TensorFlow.",
+        "Achieved SOTA 92% accuracy in autism detection from infants' crying voice by fine-tuning Google YAMNet and using an ensemble classifier in TensorFlow.",
         "Attained 99.5% similarity & consistency with human annotations by fine-tuning YAMNet and using energy-thresholding for cleaning voice recordings."
       ]
     },
@@ -74,16 +74,16 @@
       "institution": "University of Toronto, Toronto, Canada",
       "area": "Electrical and Computer Engineering",
       "studyType": "Master of Applied Science",
-      "startDate": "2022-09-01",
-      "endDate": "2024-11-01",
+      "startDate": "2022",
+      "endDate": "2024",
       "courses": ["GPA: 3.86/4"]
     },
     {
       "institution": "University of Tehran, Tehran, Iran",
       "area": "Electrical Engineering, Minor in Computer Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "2017-09-01",
-      "endDate": "2022-02-01",
+      "startDate": "2017",
+      "endDate": "2022",
       "courses": ["GPA: 3.92/4"]
     }
   ],

@@ -5,10 +5,10 @@ repo_description_lines_max: 2
 
 github_repos:
   - ovaheb/AstroSURE_Learning-to-Denoise-Astronomical-Images
-  - ovaheb/ASR-Error-Correction
+  - ovaheb/ovaheb.github.io
   - ovaheb/Image-Denoising-Astrostatistics
   - ovaheb/Autism-Classification
-  - ovaheb/ovaheb.github.io
+  - ovaheb/Machine-Learning
   - ovaheb/Advanced-Programming-Course-Projects
   - ovaheb/Genre-Decetion-of-Movies-Using-Data-Fusion-of-Text-Description-and-Poster-Image
   - ovaheb/Artificial-Intelligence
